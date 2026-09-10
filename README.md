@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Zareer, pursuing Software Engineering at Daffodil International Univarsity
 <!--
 **zareerabdullah07/zareerabdullah07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+       . I have a cat
+       . I like playing guiter
+       . Bleach is my favourite anime
 -->
