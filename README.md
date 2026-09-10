@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Zareer 👋</h1>
 
-<p align="center">
-  Software Engineering Student @ Daffodil International University
-</p>
-
 ---
 
 ### 🚀 About Me
