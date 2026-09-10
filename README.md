@@ -1,4 +1,4 @@
-### Hi, I'm Zareer 👋</
+### Hi, I'm Zareer 👋
 
 - 🎓 Currently pursuing **Software Engineering** at **Daffodil International University**
 - 🐱 Proud cat owner
